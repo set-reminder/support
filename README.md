@@ -52,7 +52,6 @@ timezone: 'Europe/London'
 ### Type: Number
 default_hour: 0
 
-
 ## Default Minute
 ### Define the minute that will be used, when no time is specified.
 ### Type: Number

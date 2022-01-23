@@ -58,5 +58,11 @@ default_hour: 0
 default_minute: 0
 ```
 
+## Usage
+```
+@set-reminder [date] [message]
+```
+Examples:
 
+<img width="621" alt="Octo Reminder Usage" src="https://user-images.githubusercontent.com/15997450/150693285-81ecec47-ca1f-4ba5-9d57-a93e8e8535ed.png">
 
